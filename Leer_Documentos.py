@@ -14,7 +14,8 @@ try:
 	# Leer documentos
 
 	for documento in coleccion.find():
-		print(documento["Nombre"], documento["Sexo"], documento["Calificacion"])
+		print(documento["Nombre"], documento["Sexo"], 
+			documento["Calificacion"])
 
 	cliente.close()
 
