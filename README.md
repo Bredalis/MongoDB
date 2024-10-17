@@ -34,6 +34,7 @@
     ```
     git clone https://github.com/Bredalis/MongoDB.git
     ```
+    
 ## Uso ⚙️
 
 Para ejecutar un programa, simplemente navega al directorio del programa y ejecuta el archivo Python correspondiente. Por ejemplo:
@@ -43,13 +44,19 @@ Para ejecutar un programa, simplemente navega al directorio del programa y ejecu
      ```
     cd ruta-del-programa
     ```
+     
 2. Ejecuta el programa:
 
     ```
     python nombre-del-programa.py
     ```
+    
 3. Abre la app de MongoDB y has click en la BBDD para ver los datos.
 
+4. Si quieres ver algunos comandos adiccionales, mira este archivo:
+   ```
+    https://github.com/Bredalis/Commands/blob/master/MongoDB.txt
+   ``` 
 <br>
 
 ## Licencia 📜
